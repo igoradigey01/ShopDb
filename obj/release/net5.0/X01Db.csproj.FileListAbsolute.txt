@@ -1,0 +1,15 @@
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Release\net5.0\X01Db.deps.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Release\net5.0\X01Db.runtimeconfig.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Release\net5.0\X01Db.runtimeconfig.dev.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Release\net5.0\X01Db.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Release\net5.0\X01Db.pdb
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.csproj.AssemblyReference.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.AssemblyInfoInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.AssemblyInfo.cs
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.csproj.CoreCompileInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\refint\X01Db.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.pdb
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\X01Db.genruntimeconfig.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Release\net5.0\ref\X01Db.dll

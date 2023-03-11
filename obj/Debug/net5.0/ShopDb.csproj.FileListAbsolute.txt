@@ -1,0 +1,15 @@
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ShopDb.deps.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ShopDb.runtimeconfig.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ShopDb.runtimeconfig.dev.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ShopDb.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ShopDb.pdb
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.AssemblyInfoInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.AssemblyInfo.cs
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.csproj.CoreCompileInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ref\ShopDb.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.pdb
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.genruntimeconfig.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\obj\Debug\net5.0\ShopDb.csproj.AssemblyReference.cache
+C:\Users\Ks34\Documents\VS_Prodject\ShopDb\bin\Debug\net5.0\ref\ShopDb.dll
