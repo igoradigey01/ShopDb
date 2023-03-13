@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztg1xQwPIJS4q6m5F3Uh0woV+TuoUk4PRsyPahHoCLB6pCfm9BHBMF083PMoQ0zq/V41XIh/qUiJJlGSnMOi5w==",
+  "dgSpecHash": "J5kmu9FHxCXTmQnC9UInW7NoV9C/wgIQPNGhJZXWc0gKQqs+nwXFi49huHWtqMTFrmFWtHwRh+hhTuCURZDfCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\X01Db.csproj",
+  "projectFilePath": "D:\\Документы\\VS_Prodject\\ShopDb\\X01Db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ks34\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ks34\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

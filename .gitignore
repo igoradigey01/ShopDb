@@ -1,0 +1,17 @@
+  
+*.sln
+
+MyConfig.json
+.vs/
+
+bin/   
+mysql/
+nginx/
+obj/
+published/
+# my Files
+*.temp.* 
+docker-compose.yml
+launchSettings.json
+#docker-compose.yml
+/images

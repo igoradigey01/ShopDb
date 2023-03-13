@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\X01Db.csproj": {}
+    "D:\\Документы\\VS_Prodject\\ShopDb\\X01Db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\X01Db.csproj": {
+    "D:\\Документы\\VS_Prodject\\ShopDb\\X01Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\X01Db.csproj",
+        "projectUniqueName": "D:\\Документы\\VS_Prodject\\ShopDb\\X01Db.csproj",
         "projectName": "X01Db",
-        "projectPath": "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\X01Db.csproj",
+        "projectPath": "D:\\Документы\\VS_Prodject\\ShopDb\\X01Db.csproj",
         "packagesPath": "C:\\Users\\Ks34\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ks34\\Documents\\VS_Prodject\\ShopDb\\obj\\",
+        "outputPath": "D:\\Документы\\VS_Prodject\\ShopDb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ks34\\AppData\\Roaming\\NuGet\\NuGet.Config",
